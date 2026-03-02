@@ -13,4 +13,4 @@ Informatyka techniczna, semestr 1, zima 2025/26
 
 ### Zadania laboratoryjne
 
-- [-]()
+- [Kamil Ruszała](https://github.com/ITE-2025-PWR/sem1-pp-lab-rogal-kr)
